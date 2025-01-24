@@ -2,6 +2,12 @@
 ## command line arguments
 * `-f <source file>` - choose source file to execute, default `main.vnm`
 * `-base <base>` - choose number base (only for output), default `10`
+  * possible bases:
+    * 2
+    * 4
+    * 8
+    * 10
+    * 16
 * `-signed` - let every number be signed
 * `-unsigned` - let every number be unsinged
 * `-debugMode <mode>` - prints every step. Possible modes:
