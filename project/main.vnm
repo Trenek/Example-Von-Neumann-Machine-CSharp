@@ -1,6 +1,6 @@
 MEM [  0 ]:         0 ; a
 MEM [  1 ]:         1 ; b
-MEM [  2 ]:        20 ; n
+MEM [  2 ]:        10 ; n
 MEM [  3 ]:           ; wynik
 
 MEM [  4 ]: load D 2
